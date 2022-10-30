@@ -1,0 +1,25 @@
+[22:54:01] [Client thread/INFO]: Setting user: rulauncher
+[22:54:02] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+[22:54:05] [Client thread/INFO]: Reloading ResourceManager: Default
+[22:54:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:54:06] [Thread-2/INFO]: Initializing No Sound
+[22:54:06] [Thread-2/INFO]: (Silent Mode)
+[22:54:06] [Thread-2/INFO]: OpenAL initialized.
+[22:54:06] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[22:54:06] [Sound Library Loader/INFO]: Sound engine started
+[22:54:09] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:54:10] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[22:54:11] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[22:57:59] [Client thread/INFO]: Reloading ResourceManager: Default
+[22:57:59] [Client thread/INFO]: SoundSystem shutting down...
+[22:58:00] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+[22:58:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:58:00] [Thread-5/INFO]: Initializing No Sound
+[22:58:00] [Thread-5/INFO]: (Silent Mode)
+[22:58:00] [Thread-5/INFO]: OpenAL initialized.
+[22:58:00] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[22:58:00] [Sound Library Loader/INFO]: Sound engine started
+[22:58:02] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:58:29] [Client thread/INFO]: Stopping!
+[22:58:30] [Client thread/INFO]: SoundSystem shutting down...
+[22:58:30] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
